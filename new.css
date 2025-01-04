@@ -1,3 +1,8 @@
 h1 {
+    cursor: pointer;
     color: sandybrown;
+}
+
+.red-text {
+    color: red;
 }
